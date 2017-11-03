@@ -10,3 +10,6 @@
  *	基于UPD协议提供“可靠”文字聊天，使用了类似TCP协议的确认及延时重发机制；
 
  *	基于TCP协议的语音聊天及文件、文件夹传送等功能。
+
+## License
+[MIT](https://github.com/songbaoming/LanChat/blob/master/LICENSE)
